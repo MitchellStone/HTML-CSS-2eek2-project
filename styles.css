@@ -1,12 +1,14 @@
 .header {
+    flex-direction: row;
     display: flex;
     justify-content: space-between;
     color: white;
 }
 
 .img {
-    box-sizing: border-box;
+    background-size: cover;
     Height: 100vh;
     Width: 100vh;
+
 
 }
