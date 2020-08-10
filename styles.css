@@ -1,5 +1,6 @@
 .img {
-    Height: 100%;
-    Width: 100%;
+    box-sizing: border-box;
+    Height: 100vh;
+    Width: 100vh;
 
 }
