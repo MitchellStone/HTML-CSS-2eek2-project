@@ -2,13 +2,14 @@
     flex-direction: row;
     display: flex;
     justify-content: space-between;
-    color: white;
+    /*color: white;*/
+}
+body {
+    background-image: url("https://www.spacex.com/static/images/backgrounds/splashdown_1.webp");
 }
 
 .background-image {
-    background-size: cover;
-    Height: 100%;
-    Width: 100%;
-
-
+    background-size: auto;
+    Height: 100vh;
+    Width: 100vh;
 }
