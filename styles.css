@@ -5,10 +5,10 @@
     color: white;
 }
 
-.img {
+.background-image {
     background-size: cover;
-    Height: 100vh;
-    Width: 100vh;
+    Height: 100%;
+    Width: 100%;
 
 
 }
